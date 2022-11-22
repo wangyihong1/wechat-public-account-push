@@ -44,11 +44,9 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-06-05' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
   ],
-
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: '',
